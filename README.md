@@ -169,7 +169,7 @@ If `sp500.rds` does not already exist, the application attempts to retrieve the 
 ## Alternatively
 The application is published on **Posit Connect**. Please see the **Links** section to access the application. 
 
-[Links Section](https://github.com/brandon-marron/S-P-500-Historical-Investment-Simulator/tree/main#links)
+[Links Section](https://github.com/brandon-marron/S-P-500-Historical-Investment-Simulator#links)
 
 **OR** 
 
