@@ -163,7 +163,16 @@ shiny::runApp()
 If `sp500.rds` does not already exist, the application attempts to retrieve the S&P 500 data automatically and creates the cache file after downloading. 
 
 ## Alternatively
+The application is published on **Posit Connect**. Please see the **Links** section to access the application. 
 
+[Links Section](https://github.com/brandon-marron/S-P-500-Historical-Investment-Simulator/tree/main#links)
+
+**OR** 
+
+**Application Link**: [S&P 500 Project](https://brandonmarron-sp500-project.share.connect.posit.cloud/)
+
+# Limitations
+This project analyzes raw collision counts, not collision rates. As a result, counties and cities with larger populations or higher traffic volumes would record more collisions. Additional analysis that incorporates population, roadway mileage, or vehicle miles traveled would be needed to compare relative crash risk across locations. 
 
 # Limitations
 Several limitations should be considered when interpreting the simulation:
@@ -178,7 +187,13 @@ Because dividends are excluded, do not interpret the application as a complete t
 
 # Links
 
+**Application Link**: [S&P 500 Project](https://brandonmarron-sp500-project.share.connect.posit.cloud/)
 
+**Dataset Download Link**: [Dataset]()
+
+**GitHub Repository**: [Repository](https://github.com/brandon-marron/S-P-500-Historical-Investment-Simulator)
+
+**LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/brandonmarron)
 
 
 
